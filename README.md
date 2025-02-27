@@ -8,7 +8,7 @@ Golang building plugin for Android project.
   ```kotlin
   repositories {
       // ...
-      maven("https://raw.githubusercontent.com/bouldev/maven-repo/main/releases")
+      maven("https://raw.githubusercontent.com/U29kaXVt/golang-android-plugin/main/releases")
   }
   dependencies {
       // ...
